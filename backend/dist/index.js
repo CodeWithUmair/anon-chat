@@ -14,7 +14,7 @@ const constants_1 = require("./constants");
 const errorHandler_1 = __importDefault(require("./middlewares/errorHandler"));
 const chatRoutes_1 = __importDefault(require("./routes/Chat/chatRoutes"));
 //TODO:add frontedn url live
-exports.frontend_url = "https://anonchat-chi.vercel.app/";
+exports.frontend_url = "https://anonchat-chi.vercel.app";
 exports.local_url = "http://localhost:5173";
 dotenv_1.default.config();
 const app = (0, express_1.default)();
