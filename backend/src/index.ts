@@ -9,7 +9,7 @@ import errorHandler from "./middlewares/errorHandler";
 import chatRoutes from "./routes/Chat/chatRoutes";
 
 //TODO:add frontedn url live
-export const frontend_url = "https://anonchat.vercel.app";
+export const frontend_url = "https://anon-chat.vercel.app";
 export const local_url = "http://localhost:5173";
 
 dotenv.config();
