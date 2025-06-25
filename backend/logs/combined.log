@@ -1,0 +1,132 @@
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-12T16:31:09.730Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-12T16:31:50.008Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-12T16:33:43.087Z"}
+{"level":"error","message":"POST /api/wallet/tx-history - Error: Error getting transactions: Cannot read properties of undefined (reading 'toString')","timestamp":"2025-05-12T16:34:58.007Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-12T16:36:53.304Z"}
+<<<<<<< HEAD
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:16:34.388Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:16:35.196Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:18:47.977Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:18:48.712Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:30:24.068Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:30:24.944Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:31:09.041Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:31:09.438Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:31:50.064Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:31:50.770Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:32:07.857Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:32:08.527Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:32:36.923Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:32:37.342Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:32:56.374Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:32:58.524Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:33:22.043Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:33:23.194Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:34:36.635Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:34:38.622Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:35:44.268Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:35:45.548Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:35:56.866Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:35:57.951Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:36:00.052Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:36:00.175Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:36:01.501Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:36:01.635Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:36:03.017Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:36:03.134Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:36:04.169Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:36:04.315Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:36:05.359Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:36:05.490Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:36:14.683Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:36:15.411Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:36:17.022Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:36:17.167Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:36:18.261Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:36:18.412Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:40:39.496Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:40:40.310Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:40:43.135Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:40:43.275Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:40:44.517Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:40:44.655Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T07:41:18.692Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T07:41:19.127Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:13:43.700Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:13:44.369Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:15:45.825Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:15:46.592Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:15:47.200Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:15:47.410Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:16:14.449Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:16:15.033Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:16:59.672Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:17:00.621Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-13T08:17:00.830Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:17:18.654Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:17:19.053Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-13T08:17:19.247Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:17:25.507Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:17:26.645Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-13T08:17:26.865Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:17:34.933Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:17:35.735Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-13T08:17:35.928Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-13T08:17:46.118Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:18:00.429Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:18:01.716Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-13T08:18:01.907Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:19:19.189Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:19:20.714Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-13T08:19:21.356Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:19:30.718Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:19:31.576Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-13T08:19:31.982Z"}
+{"level":"info","message":"GET /api/user/details - Success","timestamp":"2025-05-13T08:19:58.905Z"}
+{"level":"info","message":"GET /api/user/portfolio - Success","timestamp":"2025-05-13T08:20:00.771Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-13T08:20:00.962Z"}
+=======
+{"level":"info","message":"GET /api/v1/invoice/:id - Success","timestamp":"2025-05-13T08:19:46.453Z"}
+{"level":"info","message":"GET /api/v1/invoice/:id - Success","timestamp":"2025-05-13T08:20:40.741Z"}
+{"level":"info","message":"GET /api/v1/invoice/:id - Success","timestamp":"2025-05-13T08:21:30.477Z"}
+{"level":"info","message":"GET /api/v1/invoice/:id - Success","timestamp":"2025-05-13T08:22:20.958Z"}
+{"level":"info","message":"DELETE /api/v1/invoice/:id - Success","timestamp":"2025-05-13T08:22:36.166Z"}
+{"level":"error","message":"GET /api/v1/invoice/:id - Error: Invoice does not exist.","timestamp":"2025-05-13T08:22:41.311Z"}
+{"level":"info","message":"GET /api/v1/invoice/ - Success","timestamp":"2025-05-13T08:22:46.489Z"}
+{"level":"info","message":"GET /api/v1/invoice/:id - Success","timestamp":"2025-05-13T08:23:12.612Z"}
+{"level":"info","message":"POST /api/v1/invoice/ - Success","timestamp":"2025-05-13T08:24:50.887Z"}
+{"level":"info","message":"GET /api/v1/invoice/ - Success","timestamp":"2025-05-13T08:24:55.535Z"}
+{"level":"info","message":"GET /api/v1/invoice/:id - Success","timestamp":"2025-05-13T08:25:13.293Z"}
+>>>>>>> a79e05b047b890b9c6e0b248e0854c3e26863406
+{"level":"info","message":"POST /api/wallet/send-funds - Success","timestamp":"2025-05-14T09:33:48.925Z"}
+{"level":"info","message":"POST /api/auth/register - Success","timestamp":"2025-05-14T09:06:42.117Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-14T09:13:35.642Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-14T09:39:55.464Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-14T09:52:43.892Z"}
+{"level":"info","message":"POST /api/auth/login - Success","timestamp":"2025-05-14T12:00:55.653Z"}
+{"level":"error","message":"POST /api/recurring-payments - Error: Cannot read properties of undefined (reading 'toLowerCase')","timestamp":"2025-05-14T12:06:50.155Z"}
+{"level":"error","message":"POST /api/recurring-payments - Error: Wallet address not found for: uf80902@gmail.com","timestamp":"2025-05-14T12:09:02.996Z"}
+{"level":"info","message":"POST /api/recurring-payments - Success","timestamp":"2025-05-14T12:10:40.545Z"}
+{"level":"error","message":"POST /api/v1/recurring-invoice/ - Error: \"amount\" is a required field","timestamp":"2025-05-14T13:55:20.344Z"}
+{"level":"error","message":"POST /api/v1/recurring-invoice/ - Error: \"stablecoinSymbol\" is a required field","timestamp":"2025-05-14T14:27:49.176Z"}
+{"level":"error","message":"POST /api/v1/recurring-invoice/ - Error: \"recurrence\" is a required field","timestamp":"2025-05-14T14:29:56.506Z"}
+{"level":"info","message":"POST /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T14:49:14.107Z"}
+{"level":"info","message":"GET /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T15:28:18.320Z"}
+{"level":"info","message":"POST /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T15:29:17.582Z"}
+{"level":"info","message":"GET /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T15:29:27.360Z"}
+{"level":"info","message":"GET /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T15:29:39.913Z"}
+{"level":"error","message":"GET /api/v1/recurring-invoice/ - Error: \"limit\" must be a number","timestamp":"2025-05-14T15:29:49.930Z"}
+{"level":"info","message":"GET /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T15:29:55.143Z"}
+{"level":"info","message":"GET /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T15:30:13.865Z"}
+{"level":"error","message":"GET /api/v1/recurring-invoice/ - Error: \"payeeEmail\" must be a valid email","timestamp":"2025-05-14T15:30:22.371Z"}
+{"level":"info","message":"GET /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T15:30:30.230Z"}
+{"level":"info","message":"GET /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T15:30:36.466Z"}
+{"level":"info","message":"GET /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T15:30:46.948Z"}
+{"level":"info","message":"POST /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T15:31:27.719Z"}
+{"level":"info","message":"GET /api/v1/recurring-invoice/ - Success","timestamp":"2025-05-14T15:31:37.739Z"}
+{"level":"info","message":"PUT /api/v1/recurring-invoice/:id - Success","timestamp":"2025-05-14T15:33:46.802Z"}
+{"level":"info","message":"DELETE /api/v1/recurring-invoice/:id - Success","timestamp":"2025-05-14T15:35:19.263Z"}
+{"level":"error","message":"PUT /api/v1/recurring-invoice/:id - Error: Recurring invoice not found.","timestamp":"2025-05-14T15:35:30.745Z"}
+{"level":"error","message":"POST /api/wallet/send-funds - Error: Invalid payer account","timestamp":"2025-05-14T16:09:06.991Z"}
+{"level":"info","message":"POST /api/wallet/send-funds - Success","timestamp":"2025-05-14T16:09:26.145Z"}
+{"level":"info","message":"POST /api/wallet/tx-history - Success","timestamp":"2025-05-14T16:09:30.369Z"}

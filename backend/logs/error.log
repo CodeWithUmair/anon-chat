@@ -1,0 +1,11 @@
+{"level":"error","message":"POST /api/wallet/tx-history - Error: Error getting transactions: Cannot read properties of undefined (reading 'toString')","timestamp":"2025-05-12T16:34:58.007Z"}
+{"level":"error","message":"GET /api/v1/invoice/:id - Error: Invoice does not exist.","timestamp":"2025-05-13T08:22:41.311Z"}
+{"level":"error","message":"POST /api/recurring-payments - Error: Cannot read properties of undefined (reading 'toLowerCase')","timestamp":"2025-05-14T12:06:50.155Z"}
+{"level":"error","message":"POST /api/recurring-payments - Error: Wallet address not found for: uf80902@gmail.com","timestamp":"2025-05-14T12:09:02.996Z"}
+{"level":"error","message":"POST /api/v1/recurring-invoice/ - Error: \"amount\" is a required field","timestamp":"2025-05-14T13:55:20.344Z"}
+{"level":"error","message":"POST /api/v1/recurring-invoice/ - Error: \"stablecoinSymbol\" is a required field","timestamp":"2025-05-14T14:27:49.176Z"}
+{"level":"error","message":"POST /api/v1/recurring-invoice/ - Error: \"recurrence\" is a required field","timestamp":"2025-05-14T14:29:56.506Z"}
+{"level":"error","message":"GET /api/v1/recurring-invoice/ - Error: \"limit\" must be a number","timestamp":"2025-05-14T15:29:49.930Z"}
+{"level":"error","message":"GET /api/v1/recurring-invoice/ - Error: \"payeeEmail\" must be a valid email","timestamp":"2025-05-14T15:30:22.371Z"}
+{"level":"error","message":"PUT /api/v1/recurring-invoice/:id - Error: Recurring invoice not found.","timestamp":"2025-05-14T15:35:30.745Z"}
+{"level":"error","message":"POST /api/wallet/send-funds - Error: Invalid payer account","timestamp":"2025-05-14T16:09:06.991Z"}
